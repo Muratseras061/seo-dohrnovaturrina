@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://seo.dohrnovaturrina.com/sitemap.xml
