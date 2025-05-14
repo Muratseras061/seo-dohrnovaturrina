@@ -1,58 +1,52 @@
-<section style="font-family:Arial, sans-serif; max-width:800px; margin:auto; padding:20px;">
-  <h2 style="text-align:center;">🗺️ Dohrnova Turrina | Site Haritası</h2>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <ul style="list-style:none; padding:0; line-height:1.8;">
-    
-    <li><strong>🌿 Anasayfa</strong><br>
-      <a href="https://www.dohrnovaturrina.com">🔗 Anasayfa</a>
-    </li>
+  <!-- Kök sayfalar -->
+  <url><loc>https://www.dohrnovaturrina.com/</loc><priority>1.00</priority></url>
+  <url><loc>https://www.dohrnovaturrina.com/anasayfa</loc><priority>0.90</priority></url>
 
-    <li><strong>🧭 Hakkımızda</strong><br>
-      <a href="https://www.dohrnovaturrina.com/hakkımızda">🔗 Hakkımızda</a><br>
-      <a href="https://www.dohrnovaturrina.com/yönetim-kurulumuz">🔗 Yönetim Kurulumuz</a><br>
-      <a href="https://www.dohrnovaturrina.com/üyelerimiz">🔗 Üyelerimiz</a><br>
-      <a href="https://www.dohrnovaturrina.com/kurucu-mesajı">🔗 Kurucu Mesajı</a>
-    </li>
+  <!-- Kurumsal -->
+  <url><loc>https://www.dohrnovaturrina.com/kurucu-uyelerimiz</loc></url>
+  <url><loc>https://www.dohrnovaturrina.com/hakkimizda</loc></url>
+  <url><loc>https://www.dohrnovaturrina.com/yonetim-kurulumuz</loc></url>
+  <url><loc>https://www.dohrnovaturrina.com/uyelerimiz</loc></url>
+  <url><loc>https://www.dohrnovaturrina.com/kurucu-mesaji</loc></url>
 
-    <li><strong>🌍 Faaliyet Alanlarımız</strong><br>
-      <a href="https://www.dohrnovaturrina.com/faaliyet-alanlarımız/8r-atölyeleri">🔗 8R Atölyeleri</a><br>
-      <a href="https://www.dohrnovaturrina.com/faaliyet-alanlarımız/iklim-eylem-simülasyonları">🔗 İklim Eylem Simülasyonları</a><br>
-      <a href="https://www.dohrnovaturrina.com/faaliyet-alanlarımız/sürdürülebilirlik-eğitimleri">🔗 Sürdürülebilirlik Eğitimleri</a><br>
-      <a href="https://www.dohrnovaturrina.com/faaliyet-alanlarız/ürün-dönüşüm-stüdyoları">🔗 Ürün Dönüşüm Stüdyoları</a><br>
-      <a href="https://www.dohrnovaturrina.com/faaliyet-alanlarımız/yerel-küresel-işbirlikleri">🔗 Yerel & Küresel İşbirlikleri</a>
-    </li>
+  <!-- Faaliyet Alanlarımız -->
+  <url><loc>https://www.dohrnovaturrina.com/faaliyet-alanlarimiz</loc></url>
+  <url><loc>https://www.dohrnovaturrina.com/faaliyet-alanlarimiz/8r-atolyeleri</loc></url>
+  <url><loc>https://www.dohrnovaturrina.com/faaliyet-alanlarimiz/iklim-eylem-simulasyonlari</loc></url>
+  <url><loc>https://www.dohrnovaturrina.com/faaliyet-alanlarimiz/surdurulebilirlik-egitimleri</loc></url>
+  <url><loc>https://www.dohrnovaturrina.com/faaliyet-alanlarimiz/urun-donusum-studyolari</loc></url>
+  <url><loc>https://www.dohrnovaturrina.com/faaliyet-alanlarimiz/yerel-kuresel-isbirlikleri</loc></url>
 
-    <li><strong>🤝 İşbirlikleri ve Projeler</strong><br>
-      <a href="https://www.dohrnovaturrina.com/işbirliği-ortaklarımız">🔗 İşbirliği Ortaklarımız</a><br>
-      <a href="https://www.dohrnovaturrina.com/projelerimiz">🔗 Projelerimiz</a><br>
-      <a href="https://www.dohrnovaturrina.com/bize-ilham-olan-öncü-kuruluşlar">🔗 Bize İlham Olan Öncü Kuruluşlar</a>
-    </li>
+  <!-- İşbirlikleri ve projeler -->
+  <url><loc>https://www.dohrnovaturrina.com/isbirligi-ortaklarimiz</loc></url>
+  <url><loc>https://www.dohrnovaturrina.com/projelerimiz</loc></url>
+  <url><loc>https://www.dohrnovaturrina.com/bize-ilham-olan-oncu-kuruluslar</loc></url>
 
-    <li><strong>📚 Yayınlar ve Kaynaklar</strong><br>
-      <a href="https://www.dohrnovaturrina.com/yayınlar-ve-kaynaklar">🔗 Yayınlar ve Kaynaklar</a>
-    </li>
+  <!-- Kaynaklar & etkinlikler -->
+  <url><loc>https://www.dohrnovaturrina.com/yayinlar-ve-kaynaklar</loc></url>
+  <url><loc>https://www.dohrnovaturrina.com/etkinlik-takvimi</loc></url>
 
-    <li><strong>🗓️ Etkinlikler</strong><br>
-      <a href="https://www.dohrnovaturrina.com/etkinlik-takvimi">🔗 Etkinlik Takvimi</a>
-    </li>
+  <!-- Katılım & destek -->
+  <url><loc>https://www.dohrnovaturrina.com/bize-katil-ve-destek-ol</loc></url>
+  <url><loc>https://www.dohrnovaturrina.com/uyelik-ve-gonulluluk</loc></url>
+  <url><loc>https://www.dohrnovaturrina.com/bagis-sayfasi</loc></url>
+  <url><loc>https://www.dohrnovaturrina.com/kurucu-uye-belirleme-sayfasi</loc></url>
+  <url><loc>https://www.dohrnovaturrina.com/kurucu-uye-belirleme-sayfasi/aciklama</loc></url>
 
-    <li><strong>💌 Katılım ve Destek</strong><br>
-      <a href="https://www.dohrnovaturrina.com/bize-katıl-ve-destek-ol">🔗 Bize Katıl ve Destek Ol</a><br>
-      <a href="https://www.dohrnovaturrina.com/üyelik-ve-gönüllülük">🔗 Üyelik ve Gönüllülük</a><br>
-      <a href="https://www.dohrnovaturrina.com/bağış-sayfası">🔗 Bağış Sayfası</a><br>
-      <a href="https://www.dohrnovaturrina.com/kurucu-üye-belirleme-sayfası">🔗 Kurucu Üye Belirleme Sayfası</a><br>
-      <a href="https://www.dohrnovaturrina.com/kurucu-üye-belirleme-sayfası/açıklama">🔗 Açıklama</a>
-    </li>
+  <!-- Diğer -->
+  <url><loc>https://www.dohrnovaturrina.com/about-us</loc></url>
+  <url><loc>https://www.dohrnovaturrina.com/iletisim</loc></url>
 
-    <li><strong>📞 İletişim</strong><br>
-      <a href="https://www.dohrnovaturrina.com/iletişim">🔗 İletişim</a>
-    </li>
+  <!-- Yasal -->
+  <url><loc>https://www.dohrnovaturrina.com/privacy-policy</loc></url>
+  <url><loc>https://www.dohrnovaturrina.com/copyright-term-of-use</loc></url>
+  <url><loc>https://www.dohrnovaturrina.com/sartlar-ve-kosullar</loc></url>
+  <url><loc>https://www.dohrnovaturrina.com/yasal-uyari</loc></url>
 
-    <li><strong>⚖️ Yasal Bilgiler</strong><br>
-      <a href="https://www.dohrnovaturrina.com/privacy-policy">🔗 Gizlilik Politikası</a><br>
-      <a href="https://www.dohrnovaturrina.com/copyright-term-of-use">🔗 Kullanım Şartları</a><br>
-      <a href="https://www.dohrnovaturrina.com/şartlar-ve-koşullar">🔗 Şartlar ve Koşullar</a><br>
-      <a href="https://www.dohrnovaturrina.com/yasal-uyarı">🔗 Yasal Uyarı</a>
-    </li>
-  </ul>
-</section>
+  <!-- Görsel site haritası (kullanıcı sayfası) -->
+  <url><loc>https://www.dohrnovaturrina.com/site-haritasi</loc></url>
+
+</urlset>
